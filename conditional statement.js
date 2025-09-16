@@ -16,6 +16,7 @@ if (age<18)
     }
 
 
+
 // if else
     let age=18;
 
@@ -27,6 +28,8 @@ if (age<18)
     {
         console.log("you cannot vote")
         }
+
+
 
 // else if 
 
@@ -42,4 +45,5 @@ else if(age>18)
     }
     else{
         console.log("middle")
+
     }
